@@ -27,7 +27,7 @@
 #### 实现功能
 
 1.  系统有管理员（教务处主任）、讲师、学生三种用户
-![](https://github.com/liyuan43/img-liyuan1/blob/main/images/截屏2021-04-24%20下午5.02.15.png）
+![](https://raw.githubusercontent.com/liyuan43/img-liyuan1/main/images/317E1756-FDF4-40BF-93BA-2A7D9D165982.jpeg）
 2.  前端应用启动后进入的引导页面如下，根据需求进入不同登录页面
     
 3.  这里主要放管理员的功能截图
